@@ -1,0 +1,13 @@
+[Wed Dec 14 18:41:56 2022] program started
+[Wed Dec 14 18:41:56 2022] start parsing PLINK format
+[Wed Dec 14 18:41:56 2022] N samples is 182. M snps is 4401667
+[Wed Dec 14 18:41:57 2022] number of SNPs after filtering by MAF > 0: 2211139
+[Wed Dec 14 18:41:58 2022] begin to run PCAone RSVD in memory mode
+[Wed Dec 14 18:41:58 2022] begin to do non-EM PCA.
+[Wed Dec 14 18:41:58 2022] running in memory mode with PCAone (algorithm2).
+[Wed Dec 14 18:42:57 2022] total elapsed reading time: 2.02042 seconds
+[Wed Dec 14 18:42:57 2022] total elapsed wall time: 60.6698 seconds
+[Wed Dec 14 18:42:57 2022] eigenvecs and eigenvals are saved. have a nice day. bye!
+PCAone (v0.3.1)    https://github.com/Zilong-Li/PCAone
+Options in effect:
+../PCAone -b microctonus_fullcohort.snp.rh.samplesub.filts.nomacfilter --out microctonus_fullcohort.snp.rh.samplesub.filts.nomacfilter.pcaone -k 10 -n 10 

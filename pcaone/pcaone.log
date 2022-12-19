@@ -1,0 +1,4 @@
+[Wed Dec 14 18:40:42 2022] program started
+[Wed Dec 14 18:40:42 2022] start parsing PLINK format
+[Wed Dec 14 18:40:42 2022] N samples is 182. M snps is 4401667
+[Wed Dec 14 18:40:43 2022] number of SNPs after filtering by MAF > 0: 2211139
